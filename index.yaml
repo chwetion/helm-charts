@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vmtemplate:
+  - apiVersion: v2
+    appVersion: 0.58.1
+    created: "2026-04-13T14:58:40.786697+08:00"
+    description: A Helm chart for kubevirt VM
+    digest: 71fd5bbc7c0b5c9a96c602ecfebf482c0f5ec3c4855ecf953d4787925db48760
+    name: vmtemplate
+    type: application
+    urls:
+    - https://chwetion.github.io/helm-charts/vmtemplate-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-13T14:58:40.786394+08:00"
